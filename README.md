@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiDyM/giphy.gif" width="300" />
-  <h2>💥 Welcome to my digital space! Ready to blow your mind? 💥</h2>
-</div>
-
 ### Hi there, I'm Manar 👋
 
 I'm a fourth-year Data Science and Artificial Intelligence student at Al-Bayt University, and a Full-Stack Web Developer. I love blending the worlds of programming and AI to build smart solutions and creative web applications.
