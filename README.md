@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi there, I'm Manar 👋
 
-<!--
-**ManarAbu-Irsheid/ManarAbu-Irsheid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Data Science and Artificial Intelligence student at Al-Bayt University, and a Full-Stack Web Developer. I love blending the worlds of programming and AI to build smart solutions and creative web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+* **Programming Languages:** Python, JavaScript, PHP, C++, C#, Java, R, SQL
+* **Web Development:** HTML, CSS, ReactJS, ASP.NET, Firebase, Firestore
+* **Data Science & AI:** Google Colab, RStudio, Scikit-learn, NLP tools
+* **Development Tools:** VS Code, Visual Studio, Git, GitHub
+
+---
+
+### 🚀 Featured Projects:
+* **Pathfinder (Personal Project):** A pathfinding-focused application that I'm currently working on to explore algorithms and logic.
+* **Tabar3:** A donation platform built by a team of five, designed to simplify the process of donating items you no longer need or facilitating their collection.
+* **Fake News Explorer:** A web application developed by a team of four that analyzes news stories (via link or text) to check whether they are authentic or fake.
+* **Line-following Robot:** An engineering project involving a programmed robot designed to navigate along a specific line with high accuracy.
+
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManarAbu-Irsheid&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAbu-Irsheid&layout=compact&theme=radical" alt="Top Languages" />
+</div>
