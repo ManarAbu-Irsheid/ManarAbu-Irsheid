@@ -8,6 +8,7 @@ I'm a fourth-year Data Science and Artificial Intelligence student at Al-Bayt Un
 * **Programming Languages:** Python, JavaScript, PHP, C++, C#, Java, R, SQL
 * **Web Development:** HTML, CSS, ReactJS, ASP.NET, Firebase, Firestore
 * **Data Science & AI:** Google Colab, RStudio, Scikit-learn, NLP tools
+* **AI & Development Tools:** Cursor, Antigravity, Gamma, Google AI Studio, AI Animation tools
 * **Development Tools:** VS Code, Visual Studio, Git, GitHub
 
 ---
