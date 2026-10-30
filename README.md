@@ -25,12 +25,3 @@ I'm a fourth-year Data Science and Artificial Intelligence student at Al-Bayt Un
 * Always active in various communities and groups, constantly exploring new ways to level up my skills, learn emerging technologies, and grow along my career path.
 
 ---
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManarAbu-Irsheid&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAbu-Irsheid&layout=compact&theme=radical" alt="Top Languages" />
-</div>
