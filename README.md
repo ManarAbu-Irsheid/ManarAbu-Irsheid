@@ -15,13 +15,15 @@ I'm a fourth-year Data Science and Artificial Intelligence student at Al-Bayt Un
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 * **Programming Languages:** Python, JavaScript, PHP, C++, C#, Java, R, SQL
 * **Web Development:** HTML, CSS, ReactJS, ASP.NET, Firebase, Firestore
 * **Data Science & AI:** Google Colab, RStudio, Scikit-learn, NLP tools
 * **AI & Development Tools:** Cursor, Antigravity, Gamma, Google AI Studio, AI Animation tools
-* **Development Tools:** VS Code, Visual Studio, Git, GitHub
+* **Development Tools:** VS Code, Visual Studio, Git, GitHub, Kaggle
 
 ---
 
@@ -35,12 +37,3 @@ I'm a fourth-year Data Science and Artificial Intelligence student at Al-Bayt Un
 
 ### 🌱 Continuous Growth & Community:
 * Always active in various communities and groups, constantly exploring new ways to level up my skills, learn emerging technologies, and grow along my career path.
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManarAbu-Irsheid&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAbu-Irsheid&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
